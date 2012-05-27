@@ -27,3 +27,8 @@ Contributing
 ============
 
 File issues to suggest new checklist items. Note that this is not solely a developer tool, although developers and project managers are probably most fit to shape it. To that end, keep it readable to businesspeople (if you **are** a developer, this may include your clients) as well.
+
+Roadmap
+=======
+
+Fleshing out this checklist is my first priority. Based on community response, we'll see whether tools built around this information (like a measurement tool for *how* bad of a hack something is) make any sense or not. The first obvious move would be to build a site that turns the checklist into real checkboxes. Pull requests welcome! Use something databaseless and GitHub-friendly if you do.
