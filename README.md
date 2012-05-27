@@ -3,6 +3,11 @@
 
 This is a collaborative checklist aiming to answer one question: if we rush this code out the door, will it hit us on the way out?
 
+Conventions
+===========
+
+The checklist uses the first person plural ("we") since it is usually within a team that this checklist would be useful. When it refers to "code," it means sub-optimal code that will potentially be produced.
+
 Usage
 =====
 
